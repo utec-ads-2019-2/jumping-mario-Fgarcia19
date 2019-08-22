@@ -26,16 +26,7 @@ vector<int> test(int numer_walls){
         walls.push_back(height);
     }
     return walls;
-//    jumps(walls);
 }
-
-//void simular(int number_test){
-//    int walls;
-//    for(int i=0;i<number_test;i++){
-//        cin>>walls;
-//        test(walls);
-//    }
-//}
 
 
 void simular(int number_test){
